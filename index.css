@@ -204,7 +204,6 @@ ul li:hover {
   font-size: 0.8em;
   justify-content: left;
   padding: 5px;
-   
 }
 .card span {
   color: tomato;
@@ -350,8 +349,7 @@ ul li:hover {
   color: white;
   border-radius: px;
 }
-                                           /* Shop By Category Section */
-
+/* Shop By Category Section */
 
 .slider-containers {
   margin-top: 40px;
@@ -378,4 +376,146 @@ ul li:hover {
 .slider-items img {
   width: 100%;
   display: block;
+}
+
+/* NEW LAUNCHES SLIDER */
+.newslider-container {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  overflow: hidden;
+}
+
+.sliders {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.newSliderItems {
+  flex: 0 0 180px;
+  height: auto;
+  max-width: 15%;
+  padding: 0 10px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+#newLaunchImageDiv {
+  width: 146px;
+  height: 146px;
+  margin: 10px auto;
+}
+.newSliderItems img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+}
+#newLaunchTitle {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+#mrp {
+  color: grey;
+  text-decoration: line-through;
+  font-weight: bold;
+}
+#discount {
+  color: red;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 10px;
+  color: red;
+}
+footer{
+  
+  background-color: rgba(207, 226, 251, 0.316);
+  padding: 10px;
+}
+
+.footer {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+}
+.footer div {
+  height: 100%;
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+  width: 22%;
+  margin: 20px 0;
+}
+
+.footer ul {
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+}
+.footer li {
+  display: flex;
+  margin: 10px 0;
+  justify-content: space-between;
+  flex-direction: column;
+  text-decoration: none;
+  color: black;
+}
+.footer ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 0.85em;
+}
+.social {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.footer-heading {
+  font-weight: bold;
+  color: rgba(16, 16, 16, 0.744);
+}
+.footer-social {
+  width: 100%;
+  height: 30px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.social img{
+  width: 50%;
+}
+
+.payPartners{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.payLogo{
+  width: 60%;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  
+  align-items: center;
+}
+.payLogo img{
+  height: 40%;
+}
+
+h5{
+  margin-left: 20px;
 }
