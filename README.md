@@ -1,5 +1,6 @@
 # PharmEasy Static Webpage
 
+**PharmEasy** is a leading online healthcare and medicine delivery platform in India.
 The **PharmEasy Static Webpage** project is a front-end replication of the PharmEasy website, crafted as a single-page static site. This project demonstrates my ability to create an engaging and visually appealing webpage using **HTML**, **CSS**, and **JavaScript**. It features a clean design with interactive elements, including a slider built with JavaScript.
 
 ## 🚀 Live Demo
