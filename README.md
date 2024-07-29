@@ -11,21 +11,25 @@ Here are screenshots showcasing different sections of the PharmEasy Static Webpa
 ---
 
 ### 🏠 Home Page
+---
 ![PharmEasy Home Page](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/pharmeasy-home%20(2).png?raw=true)
 
 ---
 
 ### 🏷️ Category Page
+---
 ![PharmEasy Category Page](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/pharmeasy-category.png?raw=true)
 
 ---
 
 ### 🛒 Product Section
+---
 ![PharmEasy Product Page](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/pharmeasy-product.png?raw=true)
 
 ---
 
 ### 📜 Footer Section
+---
 ![PharmEasy Footer Page](https://github.com/Altamashhhhhh/Altamashhhhhh.github.io/blob/main/pharmeasy-footer.png?raw=true)
 
 ---
